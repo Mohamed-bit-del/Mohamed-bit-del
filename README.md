@@ -24,7 +24,7 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"/> -->
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="400">
 <p align="left">- 🌱 I’m currently learning **Programing**</p>
 <p align="left">- 👨‍💻 All of my projects are available at **gitHub**</p>
 <p align="left">- 📫 How to reach me **mohamed_taha66@outlook.com**</p>
